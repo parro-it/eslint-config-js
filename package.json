@@ -7,6 +7,9 @@
   "dependencies": {
     "babel-eslint": "^4.1.3"
   },
+  "eslintConfig": {
+    "extends": "js"
+  },
   "author": "andrea@parro.it",
   "scripts": {},
   "license": "MIT"
