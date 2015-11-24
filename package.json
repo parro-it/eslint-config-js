@@ -2,7 +2,7 @@
   "name": "eslint-config-js",
   "description": "eslint config for es2015",
   "repository": "parro-it/eslint-config-js",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "main": "style.js",
   "dependencies": {
     "babel-eslint": "^4.1.3"
