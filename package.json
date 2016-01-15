@@ -11,7 +11,7 @@
   },
   "author": "andrea@parro.it",
   "scripts": {
-    "nt": "eslint ."
+    "test": "eslint ."
   },
   "license": "MIT",
   "files": [
