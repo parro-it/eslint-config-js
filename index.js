@@ -16,7 +16,7 @@ module.exports = {
     /**
      * ES6
      */
-    'no-var': 2,                     // http://eslint.org/docs/rules/no-var
+    'no-var': 0,                     // http://eslint.org/docs/rules/no-var
     'prefer-const': 2,               // http://eslint.org/docs/rules/prefer-const
 
     /**
