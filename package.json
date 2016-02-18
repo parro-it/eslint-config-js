@@ -2,7 +2,7 @@
   "name": "eslint-config-js",
   "description": "eslint config for es2015",
   "repository": "parro-it/eslint-config-js",
-  "version": "3.1.0",
+  "version": "4.0.0",
   "eslintConfig": {
     "extends": "./index.js"
   },
